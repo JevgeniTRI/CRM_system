@@ -3,4 +3,4 @@ function greet(name) {
 }
 
 
-console.log(greet("Alice")); 
+console.log(greet("Smetana")); 
